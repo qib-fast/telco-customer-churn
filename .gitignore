@@ -1,0 +1,4 @@
+# The dataset is downloaded by get_data.py, not stored in git
+data/
+.ipynb_checkpoints/
+__pycache__/
